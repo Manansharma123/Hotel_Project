@@ -1,0 +1,671 @@
+[
+    {
+        "hotel_name": "Essentia Luxury Hotel, Indore",
+        "location": "near World Cup Square, Pipliyahana, Indore, Madhya Pradesh 452016",
+        "rooms": [
+            {
+                "room_type": "Deluxe King Room",
+                "price": "From 5,813 INR/Night",
+                "availability": "28 rooms available",
+                "features": [
+                    "King Size Bed",
+                    "Air-conditioning",
+                    "43-inch Television",
+                    "Complimentary Internet Access",
+                    "Tea and Coffee Maker"
+                ]
+            },
+            {
+                "room_type": "Deluxe Twin Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": "Not specified"
+            },
+            {
+                "room_type": "Premium King Pool View with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": "Not specified"
+            },
+            {
+                "room_type": "Day Use Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": "Not specified"
+            },
+            {
+                "room_type": "Deluxe Suite with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": "Not specified"
+            },
+            {
+                "room_type": "Executive Suite with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": "Not specified"
+            }
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "15% discount on Laundry",
+            "upto 20% discount on F&B"
+        ],
+        "dining": [],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/rooms/deluxe-king-room.html"
+    },
+    {
+        "hotelName": "Essentia Luxury Hotel, Indore",
+        "hotelLocation": "Indore, Madhya Pradesh 452016",
+        "rooms": [
+            {
+                "roomType": "Premium King Pool View with Inhouse Craft Brew",
+                "price": "From 5,813 INR/Night",
+                "availability": "40 rooms available",
+                "roomFeatures": [
+                    "King Size Bed",
+                    "Air-conditioning",
+                    "43-inch Television",
+                    "Complimentary Internet Access",
+                    "Tea and Coffee Maker",
+                    "Pool View",
+                    "321 sq. ft."
+                ]
+            },
+            {
+                "roomType": "Deluxe King Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "roomFeatures": [
+                    "Not specified"
+                ]
+            },
+            {
+                "roomType": "Deluxe Twin Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "roomFeatures": [
+                    "Not specified"
+                ]
+            },
+            {
+                "roomType": "Day Use Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "roomFeatures": [
+                    "Not specified"
+                ]
+            },
+            {
+                "roomType": "Deluxe Suite with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "roomFeatures": [
+                    "Not specified"
+                ]
+            },
+            {
+                "roomType": "Executive Suite with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "roomFeatures": [
+                    "Not specified"
+                ]
+            }
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "15% discount on Laundry",
+            "Upto 20% discount on F&B"
+        ],
+        "diningOptions": [],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/rooms/premium-king-pool-view-with-inhouse-craft-brew.html"
+    },
+    {
+        "hotel_name": "Essentia Luxury Hotel, Indore",
+        "location": "Indore, Madhya Pradesh 452016",
+        "rooms": [
+            {
+                "room_type": "Deluxe Suite with Inhouse Craft Brew",
+                "price": "From 5,813 INR/Night",
+                "availability": "Available in May 2025 and other months (check website)",
+                "features": [
+                    "King Size Bed",
+                    "Air-conditioning",
+                    "43-inch Television",
+                    "Complimentary Internet Access",
+                    "Tea and Coffee Maker",
+                    "Separate Living Room",
+                    "Stunning pool views",
+                    "622 sq. ft.",
+                    "Accommodates up to four guests"
+                ]
+            },
+            {
+                "room_type": "Deluxe King Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "Not specified"
+                ]
+            },
+            {
+                "room_type": "Deluxe Twin Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "Not specified"
+                ]
+            },
+            {
+                "room_type": "Premium King Pool View with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "Not specified"
+                ]
+            },
+            {
+                "room_type": "Day Use Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "Not specified"
+                ]
+            },
+            {
+                "room_type": "Executive Suite with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "Not specified"
+                ]
+            }
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "15% discount on Laundry",
+            "Upto 20% discount on F&B"
+        ],
+        "dining": [
+            "Not specified"
+        ],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/rooms/deluxe-suite-with-inhouse-craft-brew.html"
+    },
+    {
+        "hotel_name": "Not specified",
+        "hotel_location": "Not specified",
+        "rooms": [],
+        "amenities": [
+            "Not specified"
+        ],
+        "dining": [
+            "Not specified"
+        ],
+        "source_url": "https://assets.simplotel.com/simplotel/image/upload/x_0,y_16,w_2912,h_1909,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/essentia-luxury-hotel-indore/Deluxe_king_oefwrz"
+    },
+    {
+        "hotelName": "Not specified",
+        "hotelLocation": "Not specified",
+        "rooms": [],
+        "amenities": [
+            "Not specified"
+        ],
+        "dining": [],
+        "source_url": "https://assets.simplotel.com/simplotel/image/upload/x_684,y_0,w_1544,h_1941,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/essentia-luxury-hotel-indore/Citron_Bar_ndgfcu"
+    },
+    {
+        "hotelName": "Not specified",
+        "hotelLocation": "Not specified",
+        "rooms": [],
+        "amenities": [
+            "Not specified"
+        ],
+        "dining": [],
+        "source_url": "https://assets.simplotel.com/simplotel/image/upload/x_273,y_0,w_2366,h_1941,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/essentia-luxury-hotel-indore/Deluxe_Twin_b2zggp"
+    },
+    {
+        "hotelName": "Essentia Hotels & Resorts",
+        "location": "Multiple locations (Udaipur, Indore, Pune, Chennai, Udupi)",
+        "rooms": [],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "15% discount on Laundry",
+            "Up to 20% discount on F&B"
+        ],
+        "diningOptions": [
+            {
+                "name": "Blue Salt and Coffee",
+                "description": "Dining area by the side of the pool at Essentia Luxury Resort & Spa, Udaipur and Essentia Premier Hotel, Chennai"
+            },
+            {
+                "name": "Citron Bar",
+                "description": "Bar at Essentia Luxury Hotel, Indore with a white and brown ambience, and Essentia Premiere, Pune with comfortable seating"
+            },
+            {
+                "name": "Viraasat",
+                "description": "Restaurant at Essentia Manipal Inn, Udupi"
+            }
+        ],
+        "source_url": "https://www.essentiahotels.in/eat-drink.html"
+    },
+    {
+        "hotelName": "Essentia Luxury Hotel",
+        "location": "Indore, Madhya Pradesh 452016",
+        "rooms": [],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "15% discount on Laundry",
+            "upto 20% discount on F&B"
+        ],
+        "diningOptions": [
+            {
+                "name": "Blue Salt and Coffee",
+                "description": "A refined all-day dining experience offering an exquisite array of multi-cuisine options, available 24 hours a day.  Features garden and pool views, a buffet, and an impressive selection of alcoholic beverages."
+            },
+            {
+                "name": "Splash Bar & Grill",
+                "description": "Relaxed outdoor dining with poolside elegance, a multi-cuisine menu and buffet, and a selection of fine drinks. Perfect for a leisurely experience under the stars."
+            },
+            {
+                "name": "Citron - The Lounge Bar",
+                "description": "Intimate and elegant indoor setting offering a diverse selection of multi-cuisine delights and drinks. Features a refined ambience and happy hours."
+            }
+        ],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/eat-drink.html"
+    },
+    {
+        "hotel_name": "Essentia Luxury Hotel, Indore",
+        "location": "Indore, Madhya Pradesh 452016",
+        "rooms": [
+            {
+                "room_type": "Deluxe Twin Room",
+                "price": "From 5,813 INR/Night",
+                "availability": "32 rooms available",
+                "features": [
+                    "Twin Beds",
+                    "Air-conditioning",
+                    "43-inch Television",
+                    "Complimentary Internet Access",
+                    "Tea and Coffee Maker"
+                ]
+            },
+            {
+                "room_type": "Deluxe King Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": "Not specified"
+            },
+            {
+                "room_type": "Premium King Pool View with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": "Not specified"
+            },
+            {
+                "room_type": "Day Use Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": "Not specified"
+            },
+            {
+                "room_type": "Deluxe Suite with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": "Not specified"
+            },
+            {
+                "room_type": "Executive Suite with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": "Not specified"
+            }
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "15% discount on Laundry",
+            "upto 20% discount on F&B"
+        ],
+        "dining": [],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/rooms/deluxe-twin-room.html"
+    },
+    {
+        "hotel_name": "Essentia Luxury Hotel",
+        "location": "Indore",
+        "rooms": [],
+        "amenities": [
+            "Not specified"
+        ],
+        "dining": [
+            "Not specified"
+        ],
+        "source_url": "https://assets.simplotel.com/simplotel/image/upload/x_273,y_0,w_2366,h_1941,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/essentia-luxury-hotel-indore/Premium_Room_kjmxyw"
+    },
+    {
+        "hotel_name": "Essentia Luxury Hotel, Indore",
+        "location": "near World Cup Square, Pipliyahana, Indore, Madhya Pradesh 452016",
+        "rooms": [],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "15% discount on Laundry",
+            "upto 20% discount on F&B"
+        ],
+        "dining": [
+            {
+                "name": "Blue Salt and Coffee",
+                "description": "indulge in a superb all-day dining experience, featuring a thoughtfully curated multi-cuisine menu to suit every palate. Open around the clock, our multi-cuisine restaurant in Indore is an elegant venue that offers both à la carte and buffet options, ensuring the perfect meal at any hour. Set against the serene backdrop of lush gardens and pool views, the fine dining experience is further elevated by an impressive selection of premium alcoholic beverages, adding the perfect finishing touch to your meal.",
+                "price_range": "₹1,000 - ₹2,000",
+                "cuisine": "Multi-cuisine",
+                "timing": "24/7"
+            },
+            {
+                "name": "Splash Bar & Grill",
+                "description": "Not specified"
+            },
+            {
+                "name": "Citron - The Lounge Bar",
+                "description": "Not specified"
+            }
+        ],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/eat-drink/blue-salt-and-coffee.html"
+    },
+    {
+        "hotel_name": "Not specified",
+        "hotel_location": "Not specified",
+        "rooms": [],
+        "amenities": [
+            "Not specified"
+        ],
+        "dining": [],
+        "source_url": "https://assets.simplotel.com/simplotel/image/upload/x_273,y_0,w_2366,h_1941,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/essentia-luxury-hotel-indore/Execuitve_Suite_bn2nga"
+    },
+    {
+        "hotel_name": "Essentia Luxury Hotel, Indore",
+        "location": "near World Cup Square, Pipliyahana, Indore, Madhya Pradesh 452016",
+        "rooms": [],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "Get 15% discount on Laundry",
+            "Get upto 20% discount on F&B"
+        ],
+        "dining": [
+            {
+                "name": "Splash Bar & Grill",
+                "description": "Set amidst the serene poolside, Splash Bar & Grill offers a delightful outdoor dining experience that balances casual charm with refined elegance. With its expansive multi-cuisine menu and buffet options, our bar in Indore caters to a wide variety of tastes. Whether it's a leisurely afternoon by the pool or a lively evening under the stars, the inviting ambience is complemented by a superb selection of fine drinks, making it an idyllic setting for relaxation and indulgence.",
+                "timing": "12 AM to 12 PM",
+                "rates": "₹1,000 - ₹2.000",
+                "cuisine": "Multi-cuisine"
+            },
+            {
+                "name": "Blue Salt and Coffee",
+                "description": "Not specified"
+            },
+            {
+                "name": "Citron - The Lounge Bar",
+                "description": "Not specified"
+            }
+        ],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/eat-drink/splash-bar-grill.html"
+    },
+    {
+        "hotel_name": "Essentia Luxury Hotel",
+        "location": "Indore",
+        "rooms": [],
+        "amenities": [
+            "Not specified"
+        ],
+        "dining": [
+            "Not specified"
+        ],
+        "source_url": "https://assets.simplotel.com/simplotel/image/upload/x_273,y_0,w_2366,h_1941,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/essentia-luxury-hotel-indore/Deluxe_king_oefwrz"
+    },
+    {
+        "hotel_name": "Essentia Luxury Hotel, Indore",
+        "location": "Indore, Madhya Pradesh 452016",
+        "rooms": [
+            {
+                "room_type": "Executive Suite with Inhouse Craft Brew",
+                "price": "From 5,813 INR/Night",
+                "availability": "Not specified",
+                "features": [
+                    "King Size Bed",
+                    "Air-conditioning",
+                    "43-inch Television",
+                    "Complimentary Internet Access",
+                    "Tea and Coffee Maker",
+                    "Separate Living Room"
+                ]
+            },
+            {
+                "room_type": "Deluxe King Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "Not specified"
+                ]
+            },
+            {
+                "room_type": "Deluxe Twin Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "Not specified"
+                ]
+            },
+            {
+                "room_type": "Premium King Pool View with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "Not specified"
+                ]
+            },
+            {
+                "room_type": "Day Use Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "Not specified"
+                ]
+            },
+            {
+                "room_type": "Deluxe Suite with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "Not specified"
+                ]
+            }
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "15% discount on Laundry",
+            "Up to 20% discount on F&B"
+        ],
+        "dining": [],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/rooms/executive-suite-with-inhouse-craft-brew.html"
+    },
+    {
+        "hotelName": "Not specified",
+        "hotelLocation": "Not specified",
+        "rooms": [],
+        "generalAmenities": "Not specified",
+        "diningOptions": [],
+        "source_url": "https://bookings.essentiahotels.in/property/9591/bookings/manage/"
+    },
+    {
+        "hotel_name": "Not specified",
+        "hotel_location": "Not specified",
+        "rooms": [],
+        "amenities": [
+            "Not specified"
+        ],
+        "dining": [],
+        "source_url": "https://assets.simplotel.com/simplotel/image/upload/x_494,y_0,w_1924,h_1941,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/essentia-luxury-hotel-indore/Citron_Bar_ndgfcu"
+    },
+    {
+        "hotel_name": "Not specified",
+        "hotel_location": "Not specified",
+        "rooms": [],
+        "amenities": [
+            "Not specified"
+        ],
+        "dining": [],
+        "source_url": "https://assets.simplotel.com/simplotel/image/upload/x_273,y_0,w_2366,h_1941,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/essentia-luxury-hotel-indore/Dleuxe_Suite_f5yizr"
+    },
+    {
+        "hotel_name": "Essentia Luxury Hotel, Indore",
+        "location": "near World Cup Square, Pipliyahana, Indore, Madhya Pradesh 452016",
+        "rooms": [],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "15% discount on Laundry",
+            "Upto 20% discount on F&B"
+        ],
+        "dining": [
+            {
+                "name": "Blue Salt and Coffee",
+                "description": "Not specified"
+            },
+            {
+                "name": "Splash Bar & Grill",
+                "description": "Not specified"
+            },
+            {
+                "name": "Citron - The Lounge Bar",
+                "description": "Our lounge in Indore is the epitome of understated sophistication, offering an intimate indoor setting perfect for unwinding. The multi-cuisine menu and carefully crafted selection of alcoholic beverages provide an indulgent experience for those seeking a refined, yet relaxed, atmosphere. The bar also features tempting happy hours, making it an ideal choice for an early evening drink or a post-dinner nightcap, all within the comfort of its chic and elegant surroundings.",
+                "timing": "12 AM to 12 PM",
+                "rates": "₹1,000 - ₹2,000"
+            }
+        ],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/eat-drink/citron---the-lounge-bar.html"
+    },
+    {
+        "hotel_name": "Essentia Luxury Hotel",
+        "location": "Indore, Madhya Pradesh 452016",
+        "rooms": [],
+        "amenities": [
+            "Swimming Pool",
+            "Multiple Event Venues",
+            "Multiple Dining Venues",
+            "Car Rental Service",
+            "Currency Exchange",
+            "Rooms for Differently Abled",
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "Get 15% discount on Laundry",
+            "Get upto 20% discount on F&B"
+        ],
+        "dining": [
+            {
+                "name": "Blue Salt Cafe",
+                "description": "Poolside seating arrangement.  More details not specified."
+            }
+        ],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/facilities.html"
+    },
+    {
+        "hotel_name": "Essentia Luxury Hotel, Indore",
+        "location": "near World Cup Square, Pipliyahana, Indore, Madhya Pradesh 452016",
+        "rooms": [
+            {
+                "room_type": "Deluxe King Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "321 sq. ft.",
+                    "accommodates up to four guests",
+                    "modern amenities",
+                    "comfortable layout"
+                ]
+            },
+            {
+                "room_type": "Deluxe Twin Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "321 sq. ft.",
+                    "accommodates up to four guests",
+                    "sleek, contemporary space",
+                    "modern comforts"
+                ]
+            },
+            {
+                "room_type": "Premium King Pool View with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "321 sq. ft.",
+                    "accommodates up to four guests",
+                    "stunning pool views",
+                    "elegant and serene",
+                    "combines luxury with scenic beauty"
+                ]
+            },
+            {
+                "room_type": "Day Use Room",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "321 sq. ft.",
+                    "modern amenities",
+                    "comfort for two"
+                ]
+            },
+            {
+                "room_type": "Deluxe Suite with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "460 sq. ft.",
+                    "living room",
+                    "accommodates up to four guests",
+                    "pool views",
+                    "refined design"
+                ]
+            },
+            {
+                "room_type": "Executive Suite with Inhouse Craft Brew",
+                "price": "Not specified",
+                "availability": "Not specified",
+                "features": [
+                    "622 sq. ft.",
+                    "living room",
+                    "dining area",
+                    "accommodates up to four guests",
+                    "spacious and refined accommodations"
+                ]
+            }
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Room Upgrade (subject to availability)",
+            "15% discount on Laundry",
+            "upto 20% discount on F&B"
+        ],
+        "dining": [],
+        "source_url": "https://www.essentiahotels.in/luxury-hotel-indore/rooms.html"
+    }
+]
