@@ -1,70 +1,69 @@
-Hotel Data Extractor & RAG Chatbot
-A tool that extracts hotel information from websites, saves structured data, and provides a RAG-powered chatbot interface for querying hotel details.
+# Hotel Data Extractor & RAG Chatbot
 
-🌟 Features
-Web Scraping: Extract hotel data from websites using crawl4ai
+A powerful tool to extract hotel information from websites, organize the data into structured formats, and provide an interactive Retrieval-Augmented Generation (RAG) chatbot interface for querying hotel details.
 
-Structured Data: Process raw markdown into clean JSON with room details, prices, amenities
+---
 
-Local Storage: Store all data locally without external databases
+## 🌟 Features
 
-RAG Chatbot: Query hotel information using natural language
+- **Web Scraping:** Automatically extract hotel data from websites using Crawl4AI.
+- **Structured Data:** Convert raw markdown into clean JSON containing room details, prices, and amenities.
+- **Local Storage:** Store all data locally without relying on external databases.
+- **RAG Chatbot:** Query hotel information naturally using a conversational chatbot.
+- **Gemini Integration:** Powered by Google’s Gemini 1.5 Flash model for enhanced language understanding.
 
-Gemini Integration: Powered by Google's Gemini 1.5 Flash model
+---
 
-🚀 Quick Start
-Installation
-bash
-# Clone repository
-git clone https://github.com/yourusername/hotel-data-extractor.git
-cd hotel-data-extractor
+## 🚀 Quick Start
 
-# Create virtual environment
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Manansharma123/Hotel_Project
+cd Project_chatbot
+
+# Create a Python virtual environment
 python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+# Activate the environment
+# On macOS/Linux:
+source .venv/bin/activate
+# On Windows:
+.venv\Scripts\activate
 
 # Install dependencies
-pip install -r requirements.txt
-Configuration
-Create a .env file with your API key:
+```pip install -r requirements.txt```
 
-text
-GOOGLE_API_KEY=your_gemini_api_key_here
-Usage
+
+🔧 Usage
+
 1. Extract Hotel Data
-bash
-python hotel_scraper.py
+```python hotel_scraper.py```
 This will:
 
 Scrape hotel websites
-
-Extract structured information
-
-Save raw markdown in raw_data/
-
-Save JSON data in extracted_data/
-
-Create combined hotel_data_results.json
-
+Extract structured hotel information
+Save raw markdown files to raw_data/
+Save extracted JSON files to extracted_data/
+Generate a combined JSON file hotel_data_results.json
 2. Create Embeddings
-bash
 python create_embeddings.py
 3. Run Chatbot Interface
-bash
-streamlit run hotel_search.py
+```streamlit run hotel_search.py```
 📁 Project Structure
-text
-hotel-data-extractor/
+
+Project_chatbot/
 ├── hotel_scraper.py        # Main scraper script
-├── create_embeddings.py    # Creates vector embeddings
+├── create_embeddings.py    # Script to create vector embeddings
 ├── hotel_search.py         # Streamlit chatbot interface
 ├── assets.py               # Constants and configurations
-├── api_management.py       # API key handling
-├── llm_calls.py            # LLM interaction logic
-├── markdown.py             # Markdown processing
+├── api_management.py       # API key management utilities
+├── llm_calls.py            # Logic for LLM interactions
+├── markdown.py             # Markdown processing utilities
 ├── utils.py                # Helper functions
-├── raw_data/               # Raw markdown files
-├── extracted_data/         # Extracted JSON data
-├── hotel_embeddings/       # Vector embeddings
-├── requirements.txt        # Dependencies
-└── .env                    # API keys (not committed)
+├── raw_data/               # Raw markdown files storage
+├── extracted_data/         # Extracted JSON data storage
+├── hotel_embeddings/       # Vector embeddings storage
+├── requirements.txt        # Python dependencies
+└── .env                    # Environment variables (not committed)
